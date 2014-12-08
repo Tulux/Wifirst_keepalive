@@ -1,13 +1,26 @@
-# wifirst_keepalive.tcl
-# Purpose: Keeping Wifirst connection alive despite constant logouts. Don't forget to put your own login/password below.
+# wifirst_keepalive.tcl : Keeping Wifirst connection alive despite constant logouts. Don't forget to put your own login/password below.
+# 
+# Copyright (c) 2014 Florent DELAHAYE (delahaye.florent@gmail.com)
 #
-# Author: Florent DELAHAYE <delahaye.florent@gmail.com>
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+# ---------------------------------------------------------------------
+# 
 # Date: 2014-05-09
 # Version: 1.0
-#
 # Require: Tcl, cUrl command
 # Execution: tclsh wifirst_keepalive.tcl
-
 
 
 # Display debug informations
