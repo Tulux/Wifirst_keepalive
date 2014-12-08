@@ -4,7 +4,7 @@ Wifirst_keepalive
 Objectif de ce programme : Automatiser la procédure de connexion au système Wifirst.
 
 Prérequis :
-- Système Unix ou dérivés (Linux, *BSD, etc.)
+- Système Unix ou dérivés (Linux, *BSD, etc.). Fonctionne sous Windows probable avec l'environnement Cygwin.
 - Package tclsh
 - Package cUrl
 
