@@ -1,5 +1,3 @@
-# wifirst_keepalive.tcl : Keeping Wifirst connection alive despite constant logouts. Don't forget to put your own login/password below.
-# 
 # Copyright (c) 2014 Florent DELAHAYE (delahaye.florent@gmail.com)
 #
 # This program is free software: you can redistribute it and/or modify
@@ -16,6 +14,8 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 # ---------------------------------------------------------------------
+#
+# wifirst_keepalive.tcl : Keeping Wifirst connection alive despite constant logouts. Don't forget to put your own login/password below.
 # 
 # Date: 2014-05-09
 # Version: 1.0
