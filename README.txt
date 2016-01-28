@@ -1,3 +1,5 @@
+[NOT SUPPORTED ANYMORE: Not longer in Wifirst environment]
+
 Wifirst_keepalive
 =================
 
