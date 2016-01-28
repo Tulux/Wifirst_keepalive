@@ -1,3 +1,5 @@
+[NON MAINTENU: le projet n'est plus supporté car plus en environnement Wifirst]
+
 Wifirst_keepalive
 =================
 
